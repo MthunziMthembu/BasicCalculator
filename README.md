@@ -1,4 +1,4 @@
-#🧮 Visual Basic Calculator
+🧮 Visual Basic Calculator
 A clean and functional Windows Forms Calculator built using Visual Basic. This project can add, subtract, multiply, and divide, making it a simple yet effective tool for basic arithmetic operations.
 
 ✨ Features
@@ -9,3 +9,9 @@ A clean and functional Windows Forms Calculator built using Visual Basic. This p
 
 📱 User-Friendly Interface – Simple, clean, and intuitive layout. BasicCalculator
 Basic Calculator
+
+📚 Learning Outcomes
+This project is a great example for beginners who want to learn:
+Event-driven programming in Visual Basic.
+Handling numeric inputs and outputs.
+Building a functional GUI application.
